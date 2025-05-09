@@ -35,7 +35,7 @@ A Python-based chess game where a human player competes against an AI opponent p
 ## 🚀 Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 
 - `pygame` library
 
 ### Installation
